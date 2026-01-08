@@ -106,5 +106,5 @@ Password: admin
 * Product image upload
 * Responsive UI & better styling
 
-Conclusion
+💡Conclusion
 This full-stack e-commerce platform demonstrates the implementation of real-world shopping features such as product listing, cart management, checkout flow, and order handling. The project highlights strong fundamentals in React, REST API development with Express, and seamless frontend–backend integration, making it a solid example of a production-style web application.This project reflects my hands-on experience in developing a full-stack e-commerce application with end-to-end functionality. From user interaction on the frontend to order processing on the backend, it demonstrates problem-solving skills, clean code practices, and real-world application development experience.
